@@ -8,3 +8,5 @@
 * main.cpp             - cpp code
 
 * main.py              - correctness check with library numpy 
+
+![](stats/Graph.jpg)
