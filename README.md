@@ -9,4 +9,4 @@
 
 * main.py              - correctness check with library numpy 
 
-![](/PP_Lab_1/sats/Graph.jpg)
+![](/sats/Graph.jpg)
