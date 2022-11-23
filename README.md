@@ -5,8 +5,6 @@
 
 > stats directory-
 
-
 >  main.cpp             - cpp code
-
 
 >  main.py              - correctness check with library numpy 
