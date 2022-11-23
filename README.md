@@ -9,4 +9,4 @@
 
 * main.py              - correctness check with library numpy 
 
-![](Graph.jpg)
+![](stats\Graph.jpg)
